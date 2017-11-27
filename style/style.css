@@ -1,0 +1,17 @@
+.dev-list{
+    margin-top: 10px;width: 100%;height: auto;padding: 2%
+}
+.dev-card {
+    width: 30%;height: auto;float: left; margin-right: 2%;box-shadow: 3px 3px 3px grey;
+    margin-bottom: 25px;border-top-left-radius: 10px;text-align: center;background-color: grey
+}
+.dev-card a{
+    color :black; text-decoration: none;
+}
+
+.dev-title {
+    font-size: bold
+}
+.dev-subtitle {
+    font-size: small;
+}
